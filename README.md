@@ -1,5 +1,5 @@
 # JezBot
-A Tinder bot that mimics Jeremy from Peep Show - it will like everyone in set radius and send them quotes from the messages.py file.
+A Tinder bot that mimics Jeremy from Peep Show - it will like everyone in your set radius and send them quotes from the messages.py file.
 
 Find your Facebook ID here: https://findmyfbid.com/
 
